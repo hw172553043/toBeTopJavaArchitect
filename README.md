@@ -58,10 +58,10 @@
    - [8.4 Netty源码](#Netty源码)       
    - [8.5 ZooKeeper源码](#ZooKeeper源码)       
 - [第九章 大数据篇](#第九章-大数据篇 )
-   - [9.1 Storm，spark和流式计算](#Storm&spark和流式计算) 
-   - [9.2 Hadoop，离线计算](#Hadoop&离线计算) 
-   - [9.3 HDFS、MapReduce](#HDFS&MapReduce) 
-- [第十章 深度/机器学习篇](#第十章-深度&机器学习篇 )
+   - [9.1 Storm，spark和流式计算](#Storm和spark和流式计算) 
+   - [9.2 Hadoop，离线计算](#Hadoop和离线计算) 
+   - [9.3 HDFS、MapReduce](#HDFS和MapReduce) 
+- [第十章 深度/机器学习篇](#第十章-深度和机器学习篇 )
 - [第十一章 面试篇](#第十一章-面试篇 )
    - [11.1 备战面试](#备战面试) 
    - [11.2 常见面试题总结](#常见面试题总结) 
@@ -189,15 +189,15 @@
 
 ## 第九章 大数据篇
 
-#### Storm&spark和流式计算
+#### Storm和spark和流式计算
 
-#### Hadoop&离线计算
+#### Hadoop和离线计算
 
-#### HDFS&MapReduce
+#### HDFS和MapReduce
 
 
 
-## 第十章 深度&机器学习篇
+## 第十章 深度和机器学习篇
 
 #### 智能时代
 
