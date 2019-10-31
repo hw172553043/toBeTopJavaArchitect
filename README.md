@@ -85,7 +85,7 @@
 
 #### 集合容器
 
-* **[Java 基础知识回顾](docs/part1-basics/Java基础知识.md)**
+* [Java 基础知识回顾](docs/part1-basics/Java基础知识.md)
 
 #### 数据结构
 
