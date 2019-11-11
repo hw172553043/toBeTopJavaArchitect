@@ -85,17 +85,28 @@
 
 #### 集合容器
 
-* [1.1 Java 基础知识回顾](docs/part1-basics/1-1%20Java基础知识.md)
-* [1.2 集合](docs/part1-basics/1-2%20集合.md)
-* [1.3 ArrayList源码学习](docs/part1-basics/1-3%20ArrayList源码学习.md)
-* [1.4 LinkedList源码学习](docs/part1-basics/1-4%20LinkedList源码学习.md)
-* [1.5 HashMap源码学习](docs/part1-basics/1-5%20HashMap源码学习.md)
-* [1.6 HashTable源码学习](docs/part1-basics/1-6%20HashTable源码学习.md)
-* [1.7 ConcurrentHashMap源码学习](docs/part1-basics/1-7%20ConcurrentHashMap源码学习.md)
+* [1.1.1 Java 基础知识回顾](docs/part1-basics/1-1-1%20Java基础知识.md)
+* [1.1.2 集合类](docs/part1-basics/1-1-2%20集合.md)
+* [1.1.3 ArrayList源码学习](docs/part1-basics/1-1-3%20ArrayList源码学习.md)
+* [1.1.4 LinkedList源码学习](docs/part1-basics/1-1-4%20LinkedList源码学习.md)
+* [1.1.5 HashMap源码学习](docs/part1-basics/1-1-5%20HashMap源码学习.md)
+* [1.1.6 HashTable源码学习](docs/part1-basics/1-1-6%20HashTable源码学习.md)
+* [1.1.7 ConcurrentHashMap源码学习](docs/part1-basics/1-1-7%20ConcurrentHashMap源码学习.md)
 
 #### 数据结构
 
+* [1.2.1 数组](docs/part1-basics/1-2-1%20数组.md)
+* [1.2.2 链表](docs/part1-basics/1-2-2%20链表.md)
+* [1.2.3 队列](docs/part1-basics/1-2-3%20队列.md)
+* [1.2.4 树](docs/part1-basics/1-2-4%20树.md)
+* [1.2.5 堆和栈](docs/part1-basics/1-2-5%20堆和栈.md)
+* [1.2.6 散列表](docs/part1-basics/1-2-6%20散列表.md)
+* [1.2.7 图](docs/part1-basics/1-2-7%20图.md)
+
 #### 常用算法
+
+* [1.3.1 几种常用排序算法](docs/part1-basics/1-3-1%20几种常用排序算法.md)
+* [1.3.2 几种常用查找算法](docs/part1-basics/1-3-2%20几种常用查找算法.md)
 
 #### JDK演变
 
