@@ -33,6 +33,8 @@
    - [3.8 日志监控](#日志监控)
    - [3.9 限流&熔断](#限流&熔断)
    - [3.10 分库分表](#分库分表)
+   - [3.11 配置中心](#配置中心)
+   - [3.12 API网关](#api网关)
 - [第四章 架构设计篇](#第四章-架构设计篇 )
    - [4.1 系统设计](#系统设计)    
      - [4.1.1 UML](#UML)    
@@ -169,24 +171,74 @@
 
 #### 缓存
 
+* [3.1.1 Java中的锁和同步类](docs/part3-middleware/3-1-1%20Web缓存.md)
+* [3.1.2 Memcached](docs/part3-middleware/3-1-2%20Memcached.md)
+* [3.1.3 Redis](docs/part3-middleware/3-1-3%20Redis.md)
+* [3.1.4 客户端缓存](docs/part3-middleware/3-1-4%20客户端缓存.md)
+
 #### 远程调用
+
+* [3.2.1 Dubbo](docs/part3-middleware/3-2-1%20Dubbo.md)
+* [3.2.2 Thrift](docs/part3-middleware/3-2-2%20Thrift.md)
+* [3.2.3 gRPC](docs/part3-middleware/3-2-3%20gRPC.md)
 
 #### 消息队列
 
+* [3.3.1 消息总线](docs/part3-middleware/3-3-1%20消息总线.md)
+* [3.3.2 消息的顺序](docs/part3-middleware/3-3-2%20消息的顺序.md)
+* [3.3.3 RabbitMQ](docs/part3-middleware/3-3-3%20RabbitMQ.md)
+* [3.3.4 RocketMQ](docs/part3-middleware/3-3-4%20RocketMQ.md)
+* [3.3.5 ActiveMQ](docs/part3-middleware/3-3-5%20ActiveMQ.md)
+* [3.3.6 Kafka](docs/part3-middleware/3-3-6%20Kafka.md)
+* [3.3.7 Redis消息推送](docs/part3-middleware/3-3-7%20Redis消息推送.md)
+* [3.3.8 ZeroMQ](docs/part3-middleware/3-3-8%20ZeroMQ.md)
+
 #### 任务调序
+
+* [3.4.1 单机定时调度](docs/part3-middleware/3-4-1%20单机定时调度.md)
+* [3.4.2 分布式定时调度](docs/part3-middleware/3-4-2%20分布式定时调度.md)
 
 #### 搜索引擎
 
+* [3.5.1 搜索引擎原理](docs/part3-middleware/3-5-1%20搜索引擎原理.md)
+* [3.5.2 Solr](docs/part3-middleware/3-5-2%20Solr.md)
+* [3.5.3 Elasticsearch](docs/part3-middleware/3-5-3%20Elasticsearch.md)
+* [3.5.4 Lucene](docs/part3-middleware/3-5-4%20Lucene.md)
+* [3.5.5 Sphinx](docs/part3-middleware/3-5-5%20Sphinx.md)
+
 #### 分布式锁
+
+* [3.6.1 数据库实现](docs/part3-middleware/3-6-1%20数据库实现.md)
+* [3.6.2 缓存实现](docs/part3-middleware/3-6-2%20缓存实现.md)
+* [3.6.3 Zookeeper实现](docs/part3-middleware/3-6-3%20Zookeeper实现.md)
 
 #### 监控
 
+* [3.7.1 CAT](docs/part3-middleware/3-7-1%20CAT.md)
+* [3.7.2 APM](docs/part3-middleware/3-7-2%20APM.md)
+* [3.7.3 Zabbix](docs/part3-middleware/3-7-3%20Zabbix.md)
+
 #### 日志监控
+
+* [3.8.1 日志搜集ELK](docs/part3-middleware/3-8-1%20日志搜集ELK.md)
 
 #### 限流&熔断
 
+* [3.9.1 限流](docs/part3-middleware/3-9-1%20限流.md)
+* [3.9.2 熔断](docs/part3-middleware/3-9-2%20熔断.md)
+
 #### 分库分表
 
+* [3.10.1 ShardingJDBC](docs/part3-middleware/3-10-1%20ShardingJDBC.md)
+* [3.10.2 Mycat](docs/part3-middleware/3-10-2%20Mycat.md)
+
+#### 配置中心
+
+* [3.11.1 配置中心](docs/part3-middleware/3-11-1%20配置中心.md)
+
+#### API网关
+
+* [3.12.1 API网关](docs/part3-middleware/3-12-1%20API网关.md)
 
 ## 第四章 架构设计篇
 
