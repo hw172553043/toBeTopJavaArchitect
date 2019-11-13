@@ -250,19 +250,19 @@
 
 #### 系统设计
 
-* [4.1.1 UML](docs/part4-architectureDesign/4-1-1%20UML.md)
+* [4.1.1 系统设计](docs/part4-architectureDesign/4-1-1%20系统设计.md)
 
 ##### UML
 
-* [4.1.1 UML](docs/part4-architectureDesign/4-1-1%20UML.md)
+* [4.1.1.1 UML](docs/part4-architectureDesign/4-1-1-1%20UML.md)
 
 ##### 流程图
 
-* [4.1.2 流程图](docs/part4-architectureDesign/4-1-2%20流程图.md)
+* [4.1.1.2 流程图](docs/part4-architectureDesign/4-1-1-2%20流程图.md)
 
 ##### 领域模型
 
-* [4.1.3 领域模型](docs/part4-architectureDesign/4-1-3%20领域模型.md)
+* [4.1.1.3 领域模型](docs/part4-architectureDesign/4-1-1-3%20领域模型.md)
 
 #### 权限认证
 
@@ -272,6 +272,8 @@
 ## 第五章 设计思想和开发模式篇
 
 #### 设计模式
+
+* [5.1.1 设计模式](docs/part5-designIdeaAndDesignMode/5-1-1%20设计模式.md)
 
 #### 领域驱动设计
 
