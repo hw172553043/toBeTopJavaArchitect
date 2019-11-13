@@ -41,10 +41,14 @@
      - [4.1.2 流程图](#流程图)    
      - [4.1.3 领域模型](#领域模型)    
    - [4.2 权限认证](#权限认证)    
-- [第五章 设计模式篇](#第五章-设计模式篇 )
-   - [5.1 设计模式的分类](#设计模式的分类) 
-   - [5.2 设计模式的六大原则](#设计模式的六大原则) 
-   - [5.3 常用设计模式](#常用设计模式) 
+- [第五章 设计思想和开发模式篇](#第五章-设计思想和开发模式篇 )
+   - [5.1 设计模式](#设计模式) 
+   - [5.2 领域驱动设计](#领域驱动设计) 
+   - [5.3 Actor模式](#Actor模式) 
+   - [5.4 响应式编程](#响应式编程) 
+   - [5.5 DODAF2.0](#DODAF2.0) 
+   - [5.6 Serverless](#Serverless) 
+   - [5.7 ServerMesh](#ServiceMesh) 
 - [第六章 框架篇](#第六章-框架篇 )
    - [6.1 Spring框架](#Spring框架)       
    - [6.2 分布式框架](#分布式框架)       
@@ -245,32 +249,55 @@
 
 #### 系统设计
 
-* [4.1.1 系统设计](docs/part4-architecture design/4-1-1%20系统设计.md)
-
 ##### UML
 
-* [4.2.1 UML](docs/part4-architecture design/4-2-1%20UML.md)
+* [4.1.1 UML](docs/part4-architecture design/4-1-1%20UML.md)
 
 ##### 流程图
 
-* [4.3.1 流程图](docs/part4-architecture design/4-3-1%20流程图.md)
+* [4.1.2 流程图](docs/part4-architecture design/4-1-2%20流程图.md)
 
 ##### 领域模型
 
-* [4.4.1 领域模型](docs/part4-architecture design/4-4-1%20领域模型.md)
+* [4.1.3 领域模型](docs/part4-architecture design/4-1-3%20领域模型.md)
 
 #### 权限认证
 
-* [4.5.1 授权和认证](docs/part4-architecture design/4-5-1%20授权和认证.md)
+* [4.2.1 授权和认证](docs/part4-architecture design/4-2-1%20授权和认证.md)
 
-## 第五章 设计模式篇
+## 第五章 设计思想和开发模式篇
 
-#### 设计模式的分类
+#### 设计模式
 
-#### 设计模式的六大原则
+* [5.1.1 设计模式](docs/part5-design idea and design mode/5-1-1%20设计模式.md)
 
-#### 常用设计模式
+#### 领域驱动设计
 
+* [5.2.1 领域驱动设计](docs/part5-design idea and design mode/5-2-1%20领域驱动设计.md)
+* [5.2.2 命令查询职责分离](docs/part5-design idea and design mode/5-2-2%20命令查询职责分离.md)
+* [5.2.3 贫血和充血模型](docs/part5-design idea and design mode/5-2-3%20贫血和充血模型.md)
+
+#### Actor模式
+
+* [5.3.1 Actor模式](docs/part5-design idea and design mode/5-3-1%20Actor模式.md)
+
+#### 响应式编程
+
+* [5.4.1 Reactor](docs/part5-design idea and design mode/5-4-1%20Reactor.md)
+* [5.4.2 RxJava](docs/part5-design idea and design mode/5-4-2%20RxJava.md)
+* [5.4.3 Ver.x](docs/part5-design idea and design mode/5-4-3%20VerX.md)
+
+#### DODAF2.0
+
+* [5.5.1 DODAF2.0](docs/part5-design idea and design mode/5-5-1%20DODAF2.0.md)
+
+#### Serverless
+
+* [5.6.1 Serverless](docs/part5-design idea and design mode/5-6-1%20Serverless.md)
+
+#### ServiceMesh
+ 
+* [5.7.1 ServiceMesh](docs/part5-design idea and design mode/5-7-1%20ServiceMesh.md)  
 
 
 ## 第六章 框架篇

@@ -1,8 +1,14 @@
 <component name="ProjectDictionaryState">
   <dictionary name="sbw">
     <words>
+      <w>dodaf</w>
       <w>dubbo</w>
       <w>hdfs</w>
+      <w>memcached</w>
+      <w>mycat</w>
+      <w>serverless</w>
+      <w>sharding</w>
+      <w>zabbix</w>
     </words>
   </dictionary>
 </component>
