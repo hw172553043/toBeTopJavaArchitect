@@ -245,61 +245,61 @@
 
 * [3.12.1 API网关](docs/part3-middleware/3-12-1%20API网关.md)
 
+
 ## 第四章 架构设计篇
 
 #### 系统设计
 
-* [4.1.1 UML](docs/part4-architecture design/4-1-1%20UML.md)
+* [4.1.1 UML](docs/part4-architectureDesign/4-1-1%20UML.md)
 
 ##### UML
 
-* [4.1.1 UML](docs/part4-architecture design/4-1-1%20UML.md)
+* [4.1.1 UML](docs/part4-architectureDesign/4-1-1%20UML.md)
 
 ##### 流程图
 
-* [4.1.2 流程图](docs/part4-architecture design/4-1-2%20流程图.md)
+* [4.1.2 流程图](docs/part4-architectureDesign/4-1-2%20流程图.md)
 
 ##### 领域模型
 
-* [4.1.3 领域模型](docs/part4-architecture design/4-1-3%20领域模型.md)
+* [4.1.3 领域模型](docs/part4-architectureDesign/4-1-3%20领域模型.md)
 
 #### 权限认证
 
-* [4.2.1 授权和认证](docs/part4-architecture design/4-2-1%20授权和认证.md)
+* [4.2.1 授权和认证](docs/part4-architectureDesign/4-2-1%20授权和认证.md)
+
 
 ## 第五章 设计思想和开发模式篇
 
 #### 设计模式
 
-* [5.1.1 设计模式](docs/part5-design idea and design mode/5-1-1%20设计模式.md)
-
 #### 领域驱动设计
 
-* [5.2.1 领域驱动设计](docs/part5-design idea and design mode/5-2-1%20领域驱动设计.md)
-* [5.2.2 命令查询职责分离](docs/part5-design idea and design mode/5-2-2%20命令查询职责分离.md)
-* [5.2.3 贫血和充血模型](docs/part5-design idea and design mode/5-2-3%20贫血和充血模型.md)
+* [5.2.1 领域驱动设计](docs/part5-designIdeaAndDesignMode/5-2-1%20领域驱动设计.md)
+* [5.2.2 命令查询职责分离](docs/part5-designIdeaAndDesignMode/5-2-2%20命令查询职责分离.md)
+* [5.2.3 贫血和充血模型](docs/part5-designIdeaAndDesignMode/5-2-3%20贫血和充血模型.md)
 
 #### Actor模式
 
-* [5.3.1 Actor模式](docs/part5-design idea and design mode/5-3-1%20Actor模式.md)
+* [5.3.1 Actor模式](docs/part5-designIdeaAndDesignMode/5-3-1%20Actor模式.md)
 
 #### 响应式编程
 
-* [5.4.1 Reactor](docs/part5-design idea and design mode/5-4-1%20Reactor.md)
-* [5.4.2 RxJava](docs/part5-design idea and design mode/5-4-2%20RxJava.md)
-* [5.4.3 Ver.x](docs/part5-design idea and design mode/5-4-3%20VerX.md)
+* [5.4.1 Reactor](docs/part5-designIdeaAndDesignMode/5-4-1%20Reactor.md)
+* [5.4.2 RxJava](docs/part5-designIdeaAndDesignMode/5-4-2%20RxJava.md)
+* [5.4.3 Ver.x](docs/part5-designIdeaAndDesignMode/5-4-3%20VerX.md)
 
 #### DODAF2.0
 
-* [5.5.1 DODAF2.0](docs/part5-design idea and design mode/5-5-1%20DODAF2.0.md)
+* [5.5.1 DODAF2.0](docs/part5-designIdeaAndDesignMode/5-5-1%20DODAF2.0.md)
 
 #### Serverless
 
-* [5.6.1 Serverless](docs/part5-design idea and design mode/5-6-1%20Serverless.md)
+* [5.6.1 Serverless](docs/part5-designIdeaAndDesignMode/5-6-1%20Serverless.md)
 
 #### ServiceMesh
  
-* [5.7.1 ServiceMesh](docs/part5-design idea and design mode/5-7-1%20ServiceMesh.md)  
+* [5.7.1 ServiceMesh](docs/part5-designIdeaAndDesignMode/5-7-1%20ServiceMesh.md)  
 
 
 ## 第六章 框架篇
