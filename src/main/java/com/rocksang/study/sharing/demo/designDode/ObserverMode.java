@@ -32,8 +32,6 @@ public class ObserverMode {
     }
 }
 
-
-
 /**
  * Subject(目标，Subject)：
  * 目标知道它的观察者。可以有任意多个观察者观察同一个目标。
