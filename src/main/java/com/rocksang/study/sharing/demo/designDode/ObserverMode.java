@@ -114,7 +114,7 @@ class Student implements Observer{
     }
 
     public void show(){
-        System.out.println("Name:"+name+"\nTeacher'sphone:" + phone);
+        System.out.println("学生姓名:"+name+"，老师电话:" + phone);
     }
 
     @Override
