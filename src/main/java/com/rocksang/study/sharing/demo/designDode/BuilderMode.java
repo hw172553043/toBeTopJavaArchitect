@@ -26,12 +26,10 @@ class Director{
             builder=new ConcreteBuilderOne();
             builder.buildOne();
             builder.buildTwo();
-            builder.retrievePro();
         }else if("two".equals(type)){
             builder=new ConcreteBuilderTwo();
             builder.buildOne();
             builder.buildTwo();
-            builder.retrievePro();
         }
         return builder;
     }
