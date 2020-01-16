@@ -140,7 +140,7 @@
 
 #### I/O机制
 
-* [1.5.1 I/O工作机制](docs/part1-basics/1-5-1%20IO工作机制.md)
+* [1.5.1 I/O工作机制](docs/part1-basics/1-5-1%20BIO、NIO、AIO总结.md)
 
 #### 网络协议
 
