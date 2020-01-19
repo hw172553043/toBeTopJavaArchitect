@@ -423,6 +423,8 @@
 #### 简单水平
 * [11.1.1 两数之和](docs/part11-LeetCode/11-1-1%20两数之和.md)
 * [11.1.2 整数反转](docs/part11-LeetCode/11-1-2%20整数反转.md)
+* [11.1.3 回文数](docs/part11-LeetCode/11-1-3%20回文数.md)
+* [11.1.4 罗马数字转整数](docs/part11-LeetCode/11-1-4%20罗马数字转整数.md)
 
 #### 中等水平
 * [11.2.1 两数相加](docs/part11-LeetCode/11-2-1%20两数相加.md)
