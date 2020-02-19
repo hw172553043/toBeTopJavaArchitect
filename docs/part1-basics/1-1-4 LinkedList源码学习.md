@@ -344,6 +344,7 @@ LinkedList由于实现了List和Deque接口，所以有多种添加方法，下�
 - 将数据插入到链表尾部
     - boolean add(E e):
     - void addLast(E e)
+    - void push(E e)
     - boolean offerLast(E e)
 - 将数据插入到链表头部
     - void addFirst(E e)
