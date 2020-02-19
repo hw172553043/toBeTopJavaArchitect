@@ -44,7 +44,7 @@ List list = Collections.synchronizedList(new ArrayList(…));
 
 #### 1.2 ArrayList数据结构
 结构图：
-![ArrayList数据结构](https://img-blog.csdnimg.cn/20190502161202647.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTAyNTAyNDA=,size_16,color_FFFFFF,t_70)
+![ArrayList数据结构](../../sources/part1/arraylist1.png)
 
 容量：CAPACITY ； 实际大小：size；
 
@@ -63,7 +63,7 @@ public class ArrayList<E> extends AbstractList<E>
 ```
 
 结构图更直观
-![结构图](https://img-blog.csdnimg.cn/20190502161536317.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTAyNTAyNDA=,size_16,color_FFFFFF,t_70)
+![结构图](../../sources/part1/arraylist2.png)
 
 - ArrayList：说明ArrayList支持泛型。
 - extends AbstractList ：继承了AbstractList。为什么要先继承AbstractList，而让AbstractList先实现List？而不是让ArrayList直接实现List？
