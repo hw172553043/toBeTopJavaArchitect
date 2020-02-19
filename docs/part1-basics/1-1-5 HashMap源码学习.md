@@ -2,8 +2,21 @@
 ## 文章目录
 - [一、前言](#一、前言)
 - [二、Map 概述](#二、map-概述)
-    - [1.1 LinkedList类图结构](#1.1-linkedlist类图结构)
-    - [1.2 LinkedList内部结构](#1.2-linkedlist内部结构)
+    - [2.1 map大家族](#2.1-map大家族)
+    - [2.2 map大家族简版](#2.2-map大家族简版)
+    - [2.3 map概述](#2.3-map概述)
+    - [2.4 HashMap数据结构](#2.4-hashmap数据结构)
+- [三、HashMap源码分析](#三、hashmap-源码分析)
+    - [3.1 Demo测试](#3.1-demo-测试)
+    - [3.2 认知HashMap](#3.2-认知-hashmap)
+    - [3.3 源码分析](#3.3-代码分析)
+        - [3.3.1 HashMap构造方法](#3.3.1-初始化——hashmap-的构造方法)
+        - [3.3.2 插入put()方法](#3.3.2-插入——put()方法)
+        - [3.3.3 遍历](#3.3.3-遍历)
+        - [3.3.4 get()](#3.3.4-get())
+        - [3.3.5 remove()](#3.3.5-remove())
+        - [3.3.6 关于ConcurrentModificationxception](#3.3.6-关于-concurrentmodificationexception)
+- [四、总结](#四、总结)
 
 ### 一、前言
 在 Java 的数据结构基础里，HashMap 无疑是一个非常重要的数据结构。这一篇文章中我们来学习并分析一下其内部的实现原理。
