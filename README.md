@@ -124,13 +124,7 @@
 
 #### 数据结构
 
-* [1.2.1 数组](docs/part1-basics/1-2-1%20数组.md)
-* [1.2.2 链表](docs/part1-basics/1-2-2%20链表.md)
-* [1.2.3 队列](docs/part1-basics/1-2-3%20队列.md)
-* [1.2.4 树](docs/part1-basics/1-2-4%20树.md)
-* [1.2.5 堆和栈](docs/part1-basics/1-2-5%20堆和栈.md)
-* [1.2.6 散列表](docs/part1-basics/1-2-6%20散列表.md)
-* [1.2.7 图](docs/part1-basics/1-2-7%20图.md)
+* [1.2.1 数据结构](docs/part1-basics/1-2-1%20数据结构.md)
 
 #### 常用算法
 
