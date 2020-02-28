@@ -179,15 +179,14 @@
 
 #### 锁 
 
-* [2.6.1 Java中的锁和同步类](docs/part2-advance/2-6-1%20java中的锁和同步类.md)
-* [2.6.2 公平锁和非公平锁](docs/part2-advance/2-6-2%20公平锁和非公平锁.md)
-* [2.6.3 乐观锁和悲观锁](docs/part2-advance/2-6-3%20乐观锁和悲观锁.md)
-* [2.6.4 CAS原理和ABA问题](docs/part2-advance/2-6-4%20CAS原理和ABA问题.md)
-* [2.6.5 CopyOnWrite容器](docs/part2-advance/2-6-5%20CopyOnWrite容器.md)
-* [2.6.6 RingBuffer](docs/part2-advance/2-6-6%20RingBuffer.md)
-* [2.6.7 可重入锁和不可重入锁](docs/part2-advance/2-6-7%20可重入锁和不可重入锁.md)
-* [2.6.8 互斥锁和共享锁](docs/part2-advance/2-6-8%20互斥锁和共享锁.md)
-* [2.6.9 死锁](docs/part2-advance/2-6-9%20死锁.md)
+* [2.6.1 Java中的锁及其优化](docs/part2-advance/2-6-1%20java中的锁及其优化.md)
+* [2.6.2 CAS简介](docs/part2-advance/2-6-2%20CAS%20简介.md)
+* [2.6.3 AQS简介](docs/part2-advance/2-6-3%20AQS%20简介.md)
+* [2.6.4 Volatile和synchronized实现方式](docs/part2-advance/2-6-4%20Volatile和Synchronized实现方式.md)
+* [2.6.5 AtomicInteger和ConcurrentHashMap的实现原理](docs/part2-advance/2-6-5%20AtomicInteger和ConcurrentHashMap的实现原理.md)
+* [2.6.6 fork-join框架](docs/part2-advance/2-6-6%20ForkJoin框架.md)
+* [2.6.7 内存屏障](docs/part2-advance/2-6-7%20内存屏障.md)
+* [2.6.8 ReentrantLock实现原理](docs/part2-advance/2-6-8%20ReentrantLock实现原理.md)
 
 #### 高并发
 * [2.7.1 XXX](docs/part2-advance/2-6-9%20死锁.md)
