@@ -199,7 +199,6 @@
 * [3.1.1 前端缓存](docs/part3-middleware/3-1-1%20前端缓存.md)
 * [3.1.2 Memcached](docs/part3-middleware/3-1-2%20Memcached.md)
 * [3.1.3 Redis](docs/part3-middleware/3-1-3%20Redis.md)
-* [3.1.4 客户端缓存](docs/part3-middleware/3-1-4%20客户端缓存.md)
 
 #### 远程调用
 
