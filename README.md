@@ -209,6 +209,7 @@
 
 #### 消息队列
 
+* [3.3.0 消息队列](docs/part3-middleware/3-3-0%20消息队列.md)
 * [3.3.1 消息总线](docs/part3-middleware/3-3-1%20消息总线.md)
 * [3.3.2 消息的顺序](docs/part3-middleware/3-3-2%20消息的顺序.md)
 * [3.3.3 RabbitMQ](docs/part3-middleware/3-3-3%20RabbitMQ.md)
