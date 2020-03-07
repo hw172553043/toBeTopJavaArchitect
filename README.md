@@ -254,6 +254,7 @@
 
 #### 分库分表
 
+* [3.10.0 ShardingJDBC](docs/part3-middleware/3-10-1%20ShardingJDBC.md)
 * [3.10.1 ShardingJDBC](docs/part3-middleware/3-10-1%20ShardingJDBC.md)
 * [3.10.2 Mycat](docs/part3-middleware/3-10-2%20Mycat.md)
 
