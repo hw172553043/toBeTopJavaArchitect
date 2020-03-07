@@ -334,6 +334,7 @@
 #### 分布式框架
 
 * [6.2.1 分布式相关知识](docs/part6-framework/6-2-1%20分布式相关知识.md)
+* [6.2.2 分布式全局ID生成方法](docs/part6-framework/6-2-2%20分布式全局ID生成.md)
 
 #### SpringBoot框架
 
