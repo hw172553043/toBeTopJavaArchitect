@@ -485,7 +485,8 @@
 
 #### 秒杀系统设计
 
-* [22.3.1 秒杀系统设计](docs/part22-projectExperience/22-3-1%20秒杀系统设计.md)
+* [22.3.1 一个秒杀系统的设计思考](docs/part22-projectExperience/22-3-1%20一个秒杀系统的设计思考.md)
+* [22.3.2 常见的秒杀设计思路](docs/part22-projectExperience/22-3-2%20常见的秒杀设计思路.md)
 
 ## 第二十三章 资源篇
 
