@@ -355,7 +355,7 @@
 
 * [7.2.1 Mysql数据库索引实现原理](docs/part7-database/7-2-1%20Mysql数据库索引实现原理.md)
 * [7.2.3 优化](docs/part7-database/7-2-3%20优化.md)
-* [7.2.4 索引](docs/part7-database/7-2-4%20索引.md)
+* [7.2.4 死锁](docs/part7-database/7-2-4%20死锁.md)
 * [7.2.5 explain](docs/part7-database/7-2-5%20explain.md)
 
 #### NoSQL
