@@ -61,6 +61,7 @@
    - [6.3 SpringBoot框架](#SpringBoot框架)       
    - [6.4 SpringCloud框架](#SpringCloud框架)    
    - [6.5 DUBBO框架](#DUBBO框架)          
+   - [6.6 Redis框架](#Redis框架)          
 - [第七章 数据库篇](#第七章-数据库篇 )
    - [7.1 基础理论](#基础理论)       
    - [7.2 Mysql](#MySQL)       
@@ -351,7 +352,12 @@
 
 #### DUBBO框架
 
-* [6.5.1 DUBBO通信协议](docs/part6-framework/6-4-1%20DUBBO通信协议.md)
+* [6.5.1 DUBBO通信协议](docs/part6-framework/6-5-1%20DUBBO通信协议.md)
+* [6.5.2 DUBBO序列化协议](docs/part6-framework/6-5-2%20DUBBO序列化协议.md)
+
+#### Redis框架
+
+* [6.6.1 DUBBO通信协议](docs/part6-framework/6-4-1%20DUBBO通信协议.md)
 
 ## 第七章 数据库篇
 
@@ -465,6 +471,7 @@
 
 * [20.3.1 面经](docs/part20-interview/20-3-1%20面经.md)
 * [20.3.2 中通面试](docs/part20-interview/20-3-2%20中通面试.md)
+* [20.3.3 鱼泡泡面试](docs/part20-interview/20-3-3%20鱼泡泡面试.md)
 
 #### 简历
 
