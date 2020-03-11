@@ -22,6 +22,11 @@ public class 两数之和 {
 
         int[] data3 = {2,4,4,15};
         System.out.println(JSON.toJSONString(twoSum3(data3,8)));
+        try {
+            Thread.sleep(50000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 
     /**
