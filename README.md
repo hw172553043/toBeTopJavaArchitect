@@ -337,6 +337,7 @@
 
 * [6.2.1 分布式相关知识](docs/part6-framework/6-2-1%20分布式相关知识.md)
 * [6.2.2 分布式全局ID生成方法](docs/part6-framework/6-2-2%20分布式全局ID生成.md)
+* [6.2.3 分布式锁](docs/part6-framework/6-2-3%20分布式锁.md)
 
 #### SpringBoot框架
 
@@ -457,6 +458,7 @@
 #### 面经
 
 * [20.3.1 面经](docs/part20-interview/20-3-1%20面经.md)
+* [20.3.2 中通面试](docs/part20-interview/20-3-2%20中通面试.md)
 
 #### 简历
 
