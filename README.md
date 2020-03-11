@@ -59,7 +59,8 @@
    - [6.1 Spring框架](#Spring框架)       
    - [6.2 分布式框架](#分布式框架)       
    - [6.3 SpringBoot框架](#SpringBoot框架)       
-   - [6.4 SpringCloud框架](#SpringCloud框架)       
+   - [6.4 SpringCloud框架](#SpringCloud框架)    
+   - [6.5 DUBBO框架](#DUBBO框架)          
 - [第七章 数据库篇](#第七章-数据库篇 )
    - [7.1 基础理论](#基础理论)       
    - [7.2 Mysql](#MySQL)       
@@ -346,6 +347,10 @@
 #### SpringCloud框架
 
 * [6.4.1 SpringCloud相关知识](docs/part6-framework/6-4-1%20SpringCloud相关知识.md)
+
+#### DUBBO框架
+
+* [6.5.1 DUBBO通信协议](docs/part6-framework/6-4-1%20DUBBO通信协议.md)
 
 ## 第七章 数据库篇
 
