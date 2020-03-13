@@ -258,9 +258,11 @@
 
 #### 分库分表
 
-* [3.10.0 ShardingJDBC](docs/part3-middleware/3-10-1%20ShardingJDBC.md)
+* [3.10.0 分库分表解决方案](docs/part3-middleware/3-10-0%20分库分表解决方案)
 * [3.10.1 ShardingJDBC](docs/part3-middleware/3-10-1%20ShardingJDBC.md)
 * [3.10.2 Mycat](docs/part3-middleware/3-10-2%20Mycat.md)
+* [3.10.3 TDDL](docs/part3-middleware/3-10-3%20TDDL.md)
+* [3.10.4 分库分表中间件方案对比](docs/part3-middleware/3-10-4%20分库分表中间件方案对比.md)
 
 #### 配置中心
 
