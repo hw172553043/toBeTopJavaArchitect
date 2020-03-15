@@ -182,3 +182,8 @@ ConsumeQueue记录了消费位点，这个消费位点关联了commitlog的位�
 连接 单个生产者和该生产者关联的所有broker保持长连接。
 
 
+
+
+[请参考另一篇优秀文章：RocketMQ是什么](https://snailclimb.gitee.io/javaguide/#/docs/system-design/data-communication/RocketMQ?id=rocketmq%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9f)
+
+
