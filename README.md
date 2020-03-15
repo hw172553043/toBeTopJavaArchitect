@@ -220,7 +220,7 @@
 * [3.3.4 RocketMQ](docs/part3-middleware/3-3-4%20RocketMQ.md)
 * [3.3.5 ActiveMQ](docs/part3-middleware/3-3-5%20ActiveMQ.md)
 * [3.3.6 Kafka](docs/part3-middleware/3-3-6%20Kafka.md)
-* [3.3.7 各种MQ对比](docs/part3-middleware/3-3-7%20各种MQ对比.md)
+* [3.3.7 各种MQ对比](docs/part3-middleware/3-3-8%20各种MQ对比.md)
 
 #### 任务调序
 
