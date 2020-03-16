@@ -20,7 +20,7 @@ public class SingletonMode {
     // 优点：延迟加载（需要的时候才去加载）,适合单线程操作
     // 缺点： 线程不安全，在多线程中很容易出现不同步的情况，如在数据库对象进行的频繁读写操作时。
     private static SingletonMode lazySingleton = null;
-    //    private Singleton() {
+    //    private SingletonMode() {
     //    }
     public static SingletonMode getLazyInstance() {
         if (null == lazySingleton) {
@@ -33,7 +33,7 @@ public class SingletonMode {
     //  优点：线程安全，支持延时加载，调用效率高
     //  缺点： 写法复杂，不简洁
     private static SingletonMode doubleCheckSingleton = null;
-    //    private Singleton() {
+    //    private SingletonMode() {
     //    }
     public static SingletonMode getDoubleCheckInstance() {
         if (null == doubleCheckSingleton) {
@@ -52,7 +52,7 @@ public class SingletonMode {
     private static class SingletonHolder {
         private static SingletonMode instance = new SingletonMode();
     }
-    //    private Singleton() {
+    //    private SingletonMode() {
     //    }
     public static SingletonMode getInnerClassInstance() {
         return SingletonHolder.instance;
