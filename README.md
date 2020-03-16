@@ -337,6 +337,7 @@
 
 * [6.1.1 Spring架构设计](docs/part6-framework/6-1-1%20Spring架构设计.md)
 * [6.1.2 Spring事务](docs/part6-framework/6-1-2%20Spring事务.md)
+* [6.1.3 Spring的两种动态代理：Jdk和Cglib的区别和实现](docs/part6-framework/6-1-3%20Jdk和Cglib的区别和实现.md)
 
 #### 分布式框架
 
