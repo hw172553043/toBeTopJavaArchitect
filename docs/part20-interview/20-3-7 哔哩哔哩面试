@@ -1,0 +1,71 @@
+### 哔哩哔哩面试
+
+
+
+#### 1、SpringCloud 和 DUBBO 区别
+
+总览
+
+指标 | 	Dubbo |  SpringCloud
+------------- | ------------- | ------------- 
+服务注册中心 | 	Zookeeper　 | 	Spring Cloud Netfix Eureka
+服务调用方式	 | RPC　 | 	REST API
+服务监控	 | Dubbo-monitor | 	Spring Boot Admin
+熔断器	 | 不完善 | 	Spring Cloud Netflix Hystrix
+服务网关	 | 无	 | Spring Cloud Netflix Zuul
+分布式配置 | 	无	 | Spring Cloud Config
+服务跟踪	 | 无 | 	Spring Cloud Sleuth
+数据流	 | 无 | 	Spring Cloud Stream
+批量任务	 | 无 | 	Spring Cloud Task
+信息总线 | 	无	 | Spring Cloud Bus
+
+最大的区别：
+1. Dubbo底层是使用Netty这样的NIO框架，是基于TCP协议传输的，配合以Hession序列化完成RPC通信。
+2. SpringCloud是基于Http协议+rest接口调用远程过程的通信，相对来说，Http请求会有更大的报文，占的带宽也会更多。
+但是REST相比RPC更为灵活，服务提供方和调用方的依赖只依靠一纸契约，不存在代码级别的强依赖，这在强调快速演化的微服务环境下，显得更为合适，
+至于注重通信速度还是方便灵活性，具体情况具体考虑。
+
+#### 2、DUBBO框架
+
+
+#### 3、如果注册中心挂掉，服务是否能正常调用？
+
+可以的，启动dubbo时，消费者会从zk拉取注册的生产者的地址接口等数据，缓存在本地。每次调用时，按照本地存储的地址进行调用
+    
+    注册中心对等集群，任意一台宕掉后，会自动切换到另一台
+    注册中心全部宕掉，服务提供者和消费者仍可以通过本地缓存通讯
+    服务提供者无状态，任一台 宕机后，不影响使用
+    服务提供者全部宕机，服务消费者会无法使用，并无限次重连等待服务者恢复
+
+
+
+#### 4、DUBBO接口调用失败如何处理？
+
+配置重试机制，超时时间
+
+#### 5、讲一讲 Java IO模型
+
+[请参考：BIO、NIO、AIO总结](../part1-basics/1-5-2%20BIO、NIO、AIO总结.md)
+
+#### 6、GC算法有哪些？ GC时为何会出现 Stop the world ?
+
+目前所有的新生代gc都是需要STW的
+
+Serial：单线程STW，复制算法
+ParNew：多线程并行STW，复制算法
+Parallel Scavange：多线程并行STW，吞吐量优先，复制算法
+G1：多线程并发，可以精确控制STW时间，整理算法
+
+
+
+
+
+
+
+
+
+
+
+
+
+
