@@ -1,0 +1,52 @@
+### 币安面试
+
+
+
+### 1、git merge和 git rebase 区别
+
+接Git分支创建与合并，在分支合并时，有两种方式：git merge 和git rebase。
+
+git merge：将两个分支，合并提交为一个新提交，并且新提交有2个parent。
+
+git rebase：会取消分支中的每个提交，并把他们临时存放，然后把当前分支更新到最新的origin分支，最后再吧所有提交应用到分支上。
+
+
+### 2、maven 生命周期
+
+![生命周期](https://www.runoob.com/wp-content/uploads/2018/09/7642256-c967b2c1faeba9ce.png)
+
+
+### 3、Zookeeper
+
+
+### 4. 寻找峰值算法
+```java
+ public static void main(String[] args) {
+        findMaxIndex();
+    }
+
+    private static int findMaxIndex(){
+
+        int[] data = {1,3,5,7,9,8,4,2};
+        int min = 0;
+        int max = data.length-1;
+        for(;min<max;){
+            int middle = (max+min)/2;
+            
+            if(data[middle]>data[middle+1]){
+                // 峰值在左侧
+                max = middle;
+            }else{
+                // 峰值在右侧
+                min = middle+1;
+            }
+        }
+        System.out.println(min);
+        System.out.println(max);
+        return min;
+    }
+    
+```
+
+
+
