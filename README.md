@@ -55,6 +55,7 @@
    - [5.5 DODAF2.0](#DODAF2.0) 
    - [5.6 Serverless](#Serverless) 
    - [5.7 ServerMesh](#ServiceMesh) 
+   - [5.8 JAVA SPI](#JavaSPI) 
 - [第六章 框架篇](#第六章-框架篇 )
    - [6.1 Spring框架](#Spring框架)       
    - [6.2 分布式框架](#分布式框架)       
@@ -329,6 +330,10 @@
 #### ServiceMesh
  
 * [5.7.1 ServiceMesh](docs/part5-designIdeaAndDesignMode/5-7-1%20ServiceMesh.md)  
+
+#### JavaSPI
+ 
+* [5.8.1 Java SPI](docs/part5-designIdeaAndDesignMode/5-8-1%20JavaSPI.md)  
 
 
 ## 第六章 框架篇
