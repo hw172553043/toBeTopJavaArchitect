@@ -32,4 +32,6 @@ public class 最长公共前缀 {
         System.out.println(prefix);
         return prefix;
     }
+
+
 }
